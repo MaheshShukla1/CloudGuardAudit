@@ -10,7 +10,6 @@
 </p>
 
 ---
-
 ## 🚀 Overview
 
 **CloudGuardAudit** is a developer-friendly **AWS Security Audit CLI tool** with built-in **Terraform modules** for automating secure cloud infrastructure.
