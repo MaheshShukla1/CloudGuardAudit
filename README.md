@@ -1,10 +1,13 @@
-# CloudGuardAudit 🔒 | AWS Security Audit & Terraform Automation
-
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=yellow)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Terraform Validation](https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml/badge.svg)](https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/cloudguardaudit?style=social)](https://github.com/yourusername/cloudguardaudit/stargazers)
-[![Docker Pulls](https://img.shields.io/docker/pulls/yourdockerhub/cloudguardaudit)](https://hub.docker.com/r/yourdockerhub/cloudguardaudit)
+<h1 align="center">CloudGuardAudit 🔐</h1>
+<p align="center">
+  <strong>Secure your AWS cloud in minutes — audit, detect, and harden misconfigurations with Terraform.</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=yellow" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  <img src="https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml/badge.svg" alt="Terraform Validation">
+  <img src="https://img.shields.io/github/stars/MaheshShukla1/CloudGuardAudit?style=social" alt="GitHub stars">
+</p>
 
 ---
 
