@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=yellow)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://github.com/yourusername/cloudguardaudit/actions/workflows/audit.yml/badge.svg)](https://github.com/yourusername/cloudguardaudit/actions)
+[![Terraform Validation](https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml/badge.svg)](https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/cloudguardaudit?style=social)](https://github.com/yourusername/cloudguardaudit/stargazers)
 [![Docker Pulls](https://img.shields.io/docker/pulls/yourdockerhub/cloudguardaudit)](https://hub.docker.com/r/yourdockerhub/cloudguardaudit)
 
