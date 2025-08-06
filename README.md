@@ -5,12 +5,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=yellow" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  <a href="https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml" target="_blank">
   <img src="https://github.com/MaheshShukla1/CloudGuardAudit/actions/workflows/terraform.yml/badge.svg" alt="Terraform Validation">
+</a>
+
   <img src="https://img.shields.io/github/stars/MaheshShukla1/CloudGuardAudit?style=social" alt="GitHub stars">
 </p>
 
 ---
-
 ## 🚀 Overview
 
 **CloudGuardAudit** is a developer-friendly **AWS Security Audit CLI tool** with built-in **Terraform modules** for automating secure cloud infrastructure.
