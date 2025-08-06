@@ -1,0 +1,28 @@
+# === Terraform ===
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/.terraform/
+terraform.tfvars
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# === Testing ===
+.cache/
+.coverage
+htmlcov/
+
+# === Editors & OS ===
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Docker ===
+*.tar
